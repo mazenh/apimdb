@@ -1,0 +1,19 @@
+.pics{
+	float:left;
+	
+}
+
+.pics img{
+	height:300px;
+	width:200px;
+	margin:30px;
+}
+ .font{
+ 	text-decoration:none;
+	color:black;
+	font-family:tahoma;
+	text-align:center;
+ }
+body{
+	background-color:#cccccc;
+}
